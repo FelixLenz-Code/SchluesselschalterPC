@@ -10,5 +10,7 @@ Der Schlüsselschalter wird an Pin 2 angeschlossen. An Pin 13 und 12 werden die 
 
 ![Zeichnung](https://github.com/FelixLenz-Code/SchluesselschalterPC/blob/main/Zeichnung.jpg "Zeichnung")
 
+[**Tinkercad Simulation**](https://www.tinkercad.com/things/5atuWxaf2au "Tinkercad Simulation")
+
 ## Software
 Das Arduino Programm schaltet die Steckdosenleiste ein um z.B. Bildschirme mit einzuschalten. Das andere Relais emuliert den Tastendruck am PC Gehäuse. **Funktioniert also nur mit PCs nicht mit Laptops oder versiegelten PCs**
