@@ -8,6 +8,9 @@ In der Zeichnung stehen die LEDs für die Relais und der Taster steht für den S
 
 Der Schlüsselschalter wird an Pin 2 angeschlossen. An Pin 13 und 12 werden die Relais angeschlossen.
 
+Das 1. Relais bleibt dauerhaft eingeschaltet und unterbricht oder verbindet die Stromzufuhr für eine Steckdosenleistung in der das Zubehör eingesteckt ist.
+Das 2. Relais wird parallel zum eigentlichen An und Aus Taster des PC's geschaltet und kann den Taster emulieren. 
+
 ![Zeichnung](https://github.com/FelixLenz-Code/SchluesselschalterPC/blob/main/Zeichnung.jpg "Zeichnung")
 
 [**Tinkercad Simulation**](https://www.tinkercad.com/things/5atuWxaf2au "Tinkercad Simulation")
